@@ -6,4 +6,4 @@ for i,v in next, game.GetChildren(game) do
     GetBotGlobal[v.ClassName] = v
 end
 
-GetBotGlobal.Chat = " WE BACK BITCH | just doing some tests haha"
+GetBotGlobal.BotMessageChat = " WE BACK BITCH | just doing some tests haha"
