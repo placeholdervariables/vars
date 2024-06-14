@@ -8,6 +8,7 @@ end
 
 GetBotGlobal.InitiatedPrintMessage = "Hi, if you see this in console then the global loadstring has been initiated!"
 GetBotGlobal.BotMessageChat = " azurxi on ig | bot me or follow up BITCH"
+GetBotGlobal.WaitTime = 100
 
 GetBotGlobal.wait = task.wait
 GetBotGlobal.spawn = task.spawn
