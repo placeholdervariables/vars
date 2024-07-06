@@ -7,7 +7,7 @@ for i,v in next, game.GetChildren(game) do
 end
 
 GetBotGlobal.InitiatedPrintMessage = "Hi, if you see this in console then the global loadstring has been initiated!"
-GetBotGlobal.BotMessageChat = " piercemywings77 on ig lol | BITCH "
+GetBotGlobal.BotMessageChat = " krone says hi guys | BITCH "
 GetBotGlobal.WaitTime = 100
 
 GetBotGlobal.wait = task.wait
