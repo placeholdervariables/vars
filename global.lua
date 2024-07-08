@@ -33,7 +33,9 @@ GetBotGlobal.ChatLists = {
         "krone lended me a message, he said you were weird.",
         "krone doesn't like you, so i don't like you either.",
         "i feel very disgusted for who you are. krone told me everything.",
-        "you're a bad person. i don't know why you hurt that guy. krone told me the story.",
+        "why would you do that. krone told me the story.",
+        "your such a manipulator. krone said he saw it.",
+        "why do you do that to people? krone shown me the proof.",
     },
     songTable = {
       "hillmurder - nine w/ @s6erpent #xp",
