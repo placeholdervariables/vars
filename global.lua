@@ -46,8 +46,6 @@ GetBotGlobal.ChatLists = {
       "vnmpire - glamstar",
       "cyberia - play pretend",
       "textkill - goner (rare)",
-      "ztarnm - you can do whatever",
-      "ztarnm - i don't wanna do it",
       "sephe - wait...",
       "(dj slur) why would i lie",
       "rachyl - bad game 2",
@@ -66,7 +64,6 @@ GetBotGlobal.ChatLists = {
       "tenkay - never put my faith in her",
       "katai - da feelinn",
       "kursses - LAIT! #fantasia",
-      "forevermore - my words never heard",
       "rory - moody⛈️🔪nymphomanic💨🌑 (djxlithh)",
       "rory - play it out prod yk",
       "hillmurder - contact",
@@ -95,7 +92,6 @@ GetBotGlobal.ChatLists = {
       " - hey guys... i guess thats it 😛😛😛😛😛😛😛😛😛 (rare)",
       "st🌟 - GL🌎BAL S😳PERST🌟R #LSDRADIO ? 😢(FULL EP) (rare)",
       "st🌟 - embr🫀idery x/ Dj NYT3M4R3 #LSDRADIO ★🪅 (rare)",
-      "st🌟 - shr🍄🍄ms 🌟nd cart📺📺ns #LSDRADIO 🍭 (FULL EP) (rare)",
       "rory - class in session #intellectualarrogance prod me",
       "kqhw - eternal bliss 🌸 (432hz) *VIDEO IN DESCRIPTION*",
       "rah - get you wacked",
@@ -105,7 +101,14 @@ GetBotGlobal.ChatLists = {
       "st🌟 - d😔nt hmu #😢 i dnt exist #LSDRADI🌍 ( FULL EP )",
       "chronicle - + ( ( NEVER BE US ) ) + #RUIN",
       "(´ཀ`) - BASE VS HILLMURDER",
-        
+    },
+    hahahaha = {
+        "I HATE ALL OF YOU",
+        "roblox wont let me chat bro",
+        "no more random songs",
+        "facts",
+        "intellectual arrogance",
+        "dude u cant say u hate my bots man."
     }
 }
 
